@@ -1,2 +1,2 @@
 # bmstu-iu7-Python
-🐍 Язык программирования Python (1 семестр)
+🐍 The Python programming language (1st term)
